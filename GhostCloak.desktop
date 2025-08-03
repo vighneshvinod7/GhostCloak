@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=GhostCloak
+Comment=Activate GhostCloak (VPN + MAC Spoofing)
+Exec=/your/file/path/ghostcloak.sh
+Icon=/your/file/path/ghostcloak.ico
+Terminal=true
+Type=Application
+Categories=Utility;

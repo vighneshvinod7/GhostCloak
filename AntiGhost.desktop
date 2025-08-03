@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=AntiGhost
+Comment=Revert GhostCloak Changes
+Exec=/your/file/path/antighost.sh
+Icon=/your/file/path/antighost.ico
+Terminal=true
+Type=Application
+Categories=Utility;
